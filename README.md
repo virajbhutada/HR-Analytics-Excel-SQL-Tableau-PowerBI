@@ -37,7 +37,6 @@ Key Performance Indicators (KPIs) have been designed to address various aspects,
 
 Visualizations cover attrition patterns by gender, department-wise attrition rates, employee age distribution, job satisfaction ratings, education field-wise attrition, and attrition rates by gender for different age groups.
 
----
 
 ### Conclusion
 
@@ -55,4 +54,7 @@ This portfolio project demonstrates the effective utilization of data to derive 
 
 ---
 
-# **Author:** [Viraj N. Bhutada](https://www.linkedin.com/in/virajnbhutada24/)
+## Connect With Me
+
+**[![LinkedIn](https://img.shields.io/badge/LinkedIn-Viraj%20Bhutada-blue?logo=linkedin)](https://www.linkedin.com/in/virajnbhutada24/)**
+
