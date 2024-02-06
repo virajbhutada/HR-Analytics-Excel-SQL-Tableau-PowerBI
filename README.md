@@ -55,4 +55,4 @@ This portfolio project demonstrates the effective utilization of data to derive 
 
 ---
 
-# **Author:** Viraj N. Bhutada(https://www.linkedin.com/in/virajnbhutada24/)
+# **Author:** [Viraj N. Bhutada](https://www.linkedin.com/in/virajnbhutada24/)
