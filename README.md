@@ -47,7 +47,7 @@ This portfolio project demonstrates the effective utilization of data to derive 
 ## Get Started
 
 
-[![Clone](https://img.shields.io/badge/Clone-Repository-brightgreen)](https://github.com/virajbhutada/HR-Analytics-Portfolio-Project.git) [![Pull Requests](https://img.shields.io/badge/Pull%20Requests-Welcome-blue)](https://github.com/virajbhutada/HR-Analytics-Portfolio-Project/pulls) [![Issues](https://img.shields.io/badge/Report-Issues-red)](https://github.com/virajbhutada/HR-Analytics-Portfolio-Project/issues) [![Push Changes](https://img.shields.io/badge/Push-Changes-yellow)](https://github.com/virajbhutada/HR-Analytics-Portfolio-Project.git)
+[![Clone](https://img.shields.io/badge/Clone-Repository-brightgreen)](https://github.com/virajbhutada/HR-Analytics-Excel-SQL-Tableau-PowerBI.git) [![Pull Requests](https://img.shields.io/badge/Pull%20Requests-Welcome-blue)](https://github.com/virajbhutada/HR-Analytics-Excel-SQL-Tableau-PowerBI/pulls) [![Issues](https://img.shields.io/badge/Report-Issues-red)](https://github.com/virajbhutada/HR-Analytics-Excel-SQL-Tableau-PowerBI/issues) [![Push Changes](https://img.shields.io/badge/Push-Changes-yellow)](https://github.com/virajbhutada/HR-Analytics-Excel-SQL-Tableau-PowerBI.git)
 
 
 
